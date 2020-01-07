@@ -57,7 +57,7 @@
     </form>
 
     <form id="myForm3">
-      <label for="titolo3">delete titolo</label>
+      <label for="titolo3">delete id</label>
       <input id="title3" type="text" name="titolodel" value="">
       <input type="submit" name="" value="invio">
 

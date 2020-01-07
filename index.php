@@ -41,9 +41,24 @@
 
     <form id="myForm">
       <label for="titolo">titolo</label>
-      <input type="text" name="titolo" value="">
+      <input id="title" type="text" name="titolo" value="">
       <label for="descrizione">descrizione</label>
-      <input type="text" name="descrizione" value="">
+      <input id="descrizione" type="text" name="descrizione" value="">
+      <input type="submit" name="" value="invio">
+
+    </form>
+    <form id="myForm2">
+      <label for="titolo2">settitolo</label>
+      <input id="title2"type="text" name="titolodue" value="">
+      <label for="descrizione2">setdescrizione</label>
+      <input id="descrizione2"type="text" name="descrizionedue" value="">
+      <input type="submit" name="" value="invio">
+
+    </form>
+
+    <form id="myForm3">
+      <label for="titolo3">delete titolo</label>
+      <input id="title3" type="text" name="titolodel" value="">
       <input type="submit" name="" value="invio">
 
     </form>
